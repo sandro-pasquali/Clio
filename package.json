@@ -1,0 +1,20 @@
+{
+    "name": "clio",
+    "version": "0.0.1",
+    "url": "http://www.unifiedapplications.com/github/Clio",
+    "description": "Methods to read from and write to CLI.",
+    "keywords": ["cli","command"],
+    "author": "Sandro Pasquali <spasquali@gmail.com>",
+    "dependencies": {},
+    "main": "./index",
+    "engines": { "node": ">= 0.6.0" },
+    "repository": {
+        "type"  : "git",
+        "url"   : "https://github.com/sandro-pasquali/Clio"
+    },
+    "licenses" : [
+        {  "type"  : "MIT",
+            "url"   : "https://github.com/sandro-pasquali/Clio/blob/master/LICENSE"
+        }
+    ]
+}
