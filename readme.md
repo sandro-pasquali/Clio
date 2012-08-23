@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/sandro-pasquali/Clio.png)](http://travis-ci.org/sandro-pasquali/Clio)
 # Clio
 
 Command-line tools for [node.js](http://nodejs.org) 
