@@ -1,7 +1,6 @@
 {
     "name": "clio",
-    "version": "0.2.3",
-    "url": "http://www.unifiedapplications.com/github/Clio",
+    "version": "0.2.4",
     "description": "Methods to read from and write to CLI.",
     "keywords": ["cli","command"],
     "author": "Sandro Pasquali <spasquali@gmail.com>",
