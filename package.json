@@ -1,6 +1,6 @@
 {
     "name": "clio",
-    "version": "0.2.4",
+    "version": "0.2.5",
     "description": "Methods to read from and write to CLI.",
     "keywords": ["cli","command"],
     "author": "Sandro Pasquali <spasquali@gmail.com>",
